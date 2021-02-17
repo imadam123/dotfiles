@@ -1,7 +1,7 @@
 !! Transparency (0-1):
 *.alpha: 1.0
 Set a default font and font size as below:h
-*.font: hacknerdfont:size=12
+*.font: xos4 Terminus:size=12
 
 ! Dracula Xresources palette
 *.foreground: #F8F8F2
@@ -14,7 +14,7 @@ Set a default font and font size as below:h
 *.color10:    #5AF78E
 *.color3:     #F1FA8C
 *.color11:    #F4F99D
-*.color4:     #BD93F9
+*.color4:     #https://github.com/LukeSmithxyz/dmenuBD93F9
 *.color12:    #CAA9FA
 *.color5:     #FF79C6
 *.color13:    #FF92D0
